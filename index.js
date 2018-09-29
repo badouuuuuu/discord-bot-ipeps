@@ -88,7 +88,7 @@ bot.on('message', message => {
                 {
                     name:'Algo & Programmation:',
                     value:`
-                          -> xx/xx/xxx : 
+                          -> xx/xx/ : 
                           -> xx/xx/xx : 
                           -> xx/xx/xx : 
                           `,
