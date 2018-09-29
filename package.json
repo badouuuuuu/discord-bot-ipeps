@@ -1,0 +1,29 @@
+{
+  "engines": {
+  "node": "10.10.0"
+},
+
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "description": "geekstabotdiscord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "badou",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node-trello": "^1.3.0",
+    "prism-media": "github:hydrabolt/prism-media",
+    "tweetnacl": "^1.0.0"
+    
+  },
+  "devDependencies": {},
+  "keywords": [
+    "bot"
+  ]
+},
+
+
+
