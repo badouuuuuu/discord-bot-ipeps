@@ -5,7 +5,7 @@ const PREFIX = '!';
 
 // On Start start
 bot.on('ready', () => { 
-  console.log("GEEKSTA Robot is started !");
+  console.log("IPEPS Robot is started !");
   bot.user.setActivity('Node.JS'), {type: 'Coding'}
 });
 
