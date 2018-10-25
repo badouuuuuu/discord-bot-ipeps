@@ -11,7 +11,7 @@ bot.on('ready', () => {
 
 bot.on('guildMemberAdd', member => {
     member.createDM().then(channel => {
-        return  channel.send('Bienvenue sur GEEKSTA server'+ " " + member.displayName
+        return  channel.send('Bienvenue sur IPEPS server'+ " " + member.displayName
         + '\n' 
         + "\n`!cmd` pour afficher la liste des commandes")
         + '\n';
